@@ -26,8 +26,7 @@ Este proyecto consiste en el desarrollo de un backend plataforma de comercio ele
  Instalación y Configuración
 1. Clonar el repositorio
 
-git clone https://github.com/tu-usuario/ecommerce-backend.git
-cd ecommerce-backend
+git clone https://github.com/PameFigueroaArias/ecommerce.git
 
 2. Configurar MySQL
 Crear una base de datos en MySQL:
