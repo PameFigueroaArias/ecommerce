@@ -41,7 +41,7 @@ mvn spring-boot:run
 
 
 4. Insertar productos en la base de datos:
-  -ejecutar el siguiente escript:
+    -ejecutar el siguiente escript:
   
   -- Insertar productos en la tabla producto
 INSERT INTO db_carro.productos (id, name, description, price) VALUES
